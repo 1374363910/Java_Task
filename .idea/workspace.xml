@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Unit_2/Test_1/AreaAndLength.java" line="101" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="653f7545-6902-42ca-8707-cd14b7272955" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/META-INF/Java_Task.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_2/Test_1/AreaAndLength.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_2/Test_1/ByteTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_2/Test_1/CharTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_2/Test_1/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_2/Test_1/DataTypeDome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_2/Test_1/Ladder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_2/Test_1/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_2/Test_2/BitShiftDome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_2/Test_2/CircleArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_2/Test_2/DivModDome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_2/Test_2/MySumDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_2/Test_2/OperationDome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_2/Test_2/SanmuTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_3/Test_1/DegreeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_3/Test_1/LeapYearDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_3/Test_1/MaxMinDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_3/Test_1/PresentDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_3/Test_1/ScoreChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_3/Test_1/ScoreChange2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_3/Test_1/UpperOrLower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_3/Test_2/DealNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_3/Test_2/DoWhileDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_3/Test_2/GuessNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_Task/Unit_3/Test_2/WhileDemo.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unit_3/Test_2/DealNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unit_3/Test_2/Sort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Unit_3/Test_2/SortInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Unit_2/AreaAndLength.java" />
+        <option value="$PROJECT_DIR$/src/Unit_2/DataTypeDome.java" />
+        <option value="$PROJECT_DIR$/src/Unit_2/CharTest.java" />
+        <option value="$PROJECT_DIR$/src/Unit_2/ByteTest.java" />
+        <option value="$PROJECT_DIR$/src/Unit_2/Test_1/ByteTest.java" />
+        <option value="$PROJECT_DIR$/src/Unit_2/Test_2/DivModDome.java" />
+        <option value="$PROJECT_DIR$/src/Unit_2/Test_2/BitShiftDome.java" />
+        <option value="$PROJECT_DIR$/src/Unit_2/Test_2/OperationDome.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/Learning" />
+        <option value="$PROJECT_DIR$/src/Unit_2/Test_2/MySumDemo.java" />
+        <option value="$PROJECT_DIR$/src/Unit_2/Test_2/CircleArea.java" />
+        <option value="$PROJECT_DIR$/src/Unit_2/Test_2/SanmuTest.java" />
+        <option value="$PROJECT_DIR$/src/Unit_3/Test_1/ScoreChange.java" />
+        <option value="$PROJECT_DIR$/src/Unit_3/Test_1/ScoreChange2.java" />
+        <option value="$PROJECT_DIR$/src/Unit_3/Test_1/MaxMinDemo.java" />
+        <option value="$PROJECT_DIR$/src/Unit_3/Test_1/LeapYearDemo.java" />
+        <option value="$PROJECT_DIR$/src/Unit_3/Test_1/DegreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/Unit_3/Test_1/PresentDemo.java" />
+        <option value="$PROJECT_DIR$/src/Unit_3/Test_1/UpperOrLower.java" />
+        <option value="$PROJECT_DIR$/src/Unit_3/Test_2/GuessNumber.java" />
+        <option value="$PROJECT_DIR$/src/Unit_3/Test_2/WhileDemo.java" />
+        <option value="$PROJECT_DIR$/src/Unit_3/Test_2/DoWhileDemo.java" />
+        <option value="$PROJECT_DIR$/src/Unit_3/Test_2/dealNumber.java" />
+        <option value="$PROJECT_DIR$/src/Unit_3/Test_2/DealNumber.java" />
+        <option value="$PROJECT_DIR$/src/Unit_3/Test_2/SortNumber.java" />
+        <option value="$PROJECT_DIR$/src/Unit_3/Test_2/SortInterface.java" />
+        <option value="$PROJECT_DIR$/src/Unit_3/Test_2/Sort.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="705" />
+    <option name="y" value="-20" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java_Task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Task" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Task" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Task" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Task" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit_2" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Task" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit_2" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Task" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Task" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit_3" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Task" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit_3" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558177293137" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DealNumber">
+    <configuration name="DealNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit_3.Test_2.DealNumber" />
+      <module name="Java_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unit_3.Test_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoWhileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit_3.Test_2.DoWhileDemo" />
+      <module name="Java_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unit_3.Test_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit_3.Test_2.GuessNumber" />
+      <module name="Java_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unit_3.Test_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpperOrLower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit_3.Test_1.UpperOrLower" />
+      <module name="Java_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unit_3.Test_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit_3.Test_2.WhileDemo" />
+      <module name="Java_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unit_3.Test_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DealNumber" />
+        <item itemvalue="Application.DoWhileDemo" />
+        <item itemvalue="Application.WhileDemo" />
+        <item itemvalue="Application.GuessNumber" />
+        <item itemvalue="Application.UpperOrLower" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="653f7545-6902-42ca-8707-cd14b7272955" name="Default Changelist" comment="" />
+      <created>1557577469816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557577469816</updated>
+      <workItem from="1557577473189" duration="4744000" />
+      <workItem from="1557583297291" duration="169000" />
+      <workItem from="1557585937941" duration="7158000" />
+      <workItem from="1557729839556" duration="6902000" />
+      <workItem from="1557742624254" duration="12498000" />
+      <workItem from="1557830241993" duration="2358000" />
+      <workItem from="1558005655421" duration="2084000" />
+      <workItem from="1558007772517" duration="5268000" />
+      <workItem from="1558084379668" duration="649000" />
+      <workItem from="1558162607802" duration="17000" />
+      <workItem from="1558174705993" duration="648000" />
+    </task>
+    <task id="LOCAL-00001" summary="单元三">
+      <created>1558174806870</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558174806871</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42495000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17828418" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" weight="0.19101876" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.27620396" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49932975" visible="true" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="单元三" />
+    <option name="LAST_COMMIT_MESSAGE" value="单元三" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Learning">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_2/Test_2/SanmuTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="1" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_2/Test_2/CircleArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="35" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_2/Test_2/MySumDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="16" column="29" lean-forward="true" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_2/Test_2/OperationDome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="34" lean-forward="true" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_2/Test_2/BitShiftDome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="41" lean-forward="true" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_2/Test_1/ByteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_2/Test_1/CharTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="1" lean-forward="true" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_2/Test_1/DataTypeDome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_2/Test_1/AreaAndLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="45" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_2/Test_2/DivModDome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_3/Test_1/Test_2/GuessNumber.java" />
+    <entry file="file://$PROJECT_DIR$/src/Unit_3/Test_2/DoWhileDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_3/Test_2/WhileDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="16" selection-start-line="8" selection-start-column="12" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_3/Test_2/GuessNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_3/Test_1/UpperOrLower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_3/Test_1/PresentDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_3/Test_1/DegreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_3/Test_1/LeapYearDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_3/Test_1/MaxMinDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_3/Test_1/ScoreChange2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_3/Test_1/ScoreChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_3/Test_2/DealNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_3/Test_2/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit_3/Test_2/SortInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Java_Task</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
