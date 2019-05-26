@@ -60,18 +60,92 @@ public class Sort implements SortInterface {
 
     @Override
     public void quickSort(int first, int end) {
-
+        if (first >= end) {
+            return;
+        } else {
+            int pivot = partition(first, end);
+            quickSort(first, pivot - 1);
+            quickSort(pivot + 1, end);
+        }
     }
+
+        private int partition(int first, int end) {
+            int i = first, j = end, temp;
+            while (i < j) {
+                while (i < j && record[i] <= record[j]) {
+                    j--;
+                }
+                if (i < j) {
+                    temp = record[i];
+                    record[i] = record[j];
+                    record[j] = temp;
+                    i++;
+                }
+                while (i < j && record[i] <= record[j]) {
+                    i++;
+                }
+                if (i < j) {
+                    temp = record[i];
+                    record[i] = record[j];
+                    record[j] = temp;
+                    j--;
+                }
+            }
+            return i;
+        }
+
 
     @Override
     public void selectSort() {
-
+        int index, temp;
+        for (int i = 0; i < record.length; i++) {
+            index = i;
+            for (int scan = i + 1; scan < record.length; scan++) {
+                if (record[index] > record[scan]) {
+                    index = scan;
+                }
+            }
+            if (index != i) {
+                temp = record[i];
+                record[i] = record[index];
+                record[index] = temp;
+            }
+        }
     }
 
     @Override
     public void heapSort() {
-
+        int temp;
+        for (int index = record.length / 2 - 1; index >= 0; index--) {
+            sift(index, record.length - 1);
+        }
+        for (int i = 1; i < record.length; i++) {
+            temp = record[0];
+            record[0] = record[record.length - i];
+            record[record.length - i] = temp;
+            sift(0,record.length-i-1);
+        }
     }
+
+        private void sift(int key, int last) {
+            int temp;
+            int siftNode = key;
+            int max = 2 * siftNode + 1;
+            while (max <= last) {
+                if (max < last && record[max] < record[max + 1]) {
+                    max++;
+                }
+                if (record[siftNode] > record[max]) {
+                    break;
+                } else {
+                    temp = record[siftNode];
+                    record[siftNode] = record[max];
+                    record[max] = temp;
+                    siftNode = max;
+                    max = 2 * siftNode + 1;
+                }
+            }
+        }
 
     @Override
     public void mergeSort1(int first, int last) {
