@@ -1,10 +1,12 @@
 package Unit_3.Test_2;
 
+import java.util.List;
+
 public class Sort implements SortInterface {
     private int[] record;//定义待排序序列
 
     //构造函数，初始化序列
-    public Sort(int[] record) {
+    private Sort(int[] record) {
         this.record = record;
     }
     @Override
@@ -61,7 +63,6 @@ public class Sort implements SortInterface {
     @Override
     public void quickSort(int first, int end) {
         if (first >= end) {
-            return;
         } else {
             int pivot = partition(first, end);
             quickSort(first, pivot - 1);
@@ -157,8 +158,17 @@ public class Sort implements SortInterface {
 
     }
 
-    @Override
-    public void print() {
-
+@Override
+public void print() {
+    for (int e : record) {
+        System.out.print(e + " ");
     }
+}
+
+public static void main(String[] args) {
+    int[] list = {10,3,9,4,11,13,5,2};
+    Sort sort = new Sort(list);
+    sort.insertSort();
+    sort.print();
+}
 }
